@@ -58,6 +58,7 @@ public abstract class Product {
 
     /**
      * Adds stock to the product inventory
+     * @param amount The amount to add
      */
     public void restock(int amount) {
         if (amount > 0) {
@@ -67,6 +68,8 @@ public abstract class Product {
 
     /**
      * Consumes (sells) product from inventory
+     * @param amount The amount to consume
+     * @return true if successful, false if insufficient stock
      */
     public boolean consume(int amount) {
         if (amount <= 0) {
@@ -78,5 +81,4 @@ public abstract class Product {
         }
         return false;
     }
-
 }
