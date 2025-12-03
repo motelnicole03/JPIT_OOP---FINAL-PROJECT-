@@ -1,7 +1,9 @@
-****JPIT – Jollibee Product Inventory Tracker**
+**JPIT – Jollibee Product Inventory Tracker**
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/96172274-851c-4eab-be1c-b1262718540f" />
 
 
-<img width="227" height="222" alt="image" src="https://github.com/user-attachments/assets/fb33593e-d175-48ec-acce-c213522a0adf" />
+
 
 
 
