@@ -1,6 +1,6 @@
 **JPIT – Jollibee Product Inventory Tracker**
 
-                <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/96172274-851c-4eab-be1c-b1262718540f" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/96172274-851c-4eab-be1c-b1262718540f" />
 
 
 **1. Project Overview / Description**
@@ -56,16 +56,25 @@ specific category.
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2b2452d4-3b03-4876-a715-f31230570497" />
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a119604d-5676-4bf8-bbee-06fa5f71faa5" />
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b86b9685-55be-4817-aaa0-e9f4b1d57292" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/afbe3ab9-c6dc-4464-bddf-edf61724a0d5" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/271518e4-c039-46b6-8faa-eecd1b2be071" />
 
 
 
 
 
 **Author and Acknowledgement**
-
-This Jollibee Product Inventory Tracker (JPIT) program was collaboratively developed by **Mendoza, Nicole Ann H**., **Motel, Nicole V.**, and **Nitro, James Kerby N.** as part of the requirements in object-oriented programming.We would like to thank **Sir Emmanuel Charlie Enriquez** for guiding us and helping us understand the concepts needed to complete this work.
+- This Jollibee Product Inventory Tracker (JPIT) program was collaboratively developed by **Mendoza, Nicole Ann H**., **Motel, Nicole V.**, and **Nitro, James Kerby N.** as part of the requirements in object-oriented programming.We would like to thank **Sir Emmanuel Charlie Enriquez** for guiding us and helping us understand the concepts needed to complete this work.
 
 **References**
 - Jollibee Food Corporation.
   **https://www.jollibeefoods.com/**
+- Encapsulation **https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/**
+- Inheritamce **https://stackify.com/oop-concept-inheritance/**
+- Abstraction **https://www.w3schools.com/java/java_abstract.asp**
+- Polymorphism **https://www.w3schools.com/java/java_polymorphism.asp** 
