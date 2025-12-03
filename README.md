@@ -1,8 +1,7 @@
 **JPIT – Jollibee Product Inventory Tracker**
-
+<br/>
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/96172274-851c-4eab-be1c-b1262718540f" />
-
-
+<br/>
 **1. Project Overview / Description**
 - The Jollibee Product Inventory Tracker (JPIT) is a Java console-based application designed to manage and
 track inventory levels of various Jollibee menu items. It simulates a real-world inventory system, allowing
