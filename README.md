@@ -1,12 +1,6 @@
-<img width="461" height="850" alt="image" src="https://github.com/user-attachments/assets/eb307a8a-d385-4ae4-9208-2907396c6c27" />**JPIT – Jollibee Product Inventory Tracker**
+**JPIT – Jollibee Product Inventory Tracker**
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/96172274-851c-4eab-be1c-b1262718540f" />
-
-
-
-
-
-
+                <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/96172274-851c-4eab-be1c-b1262718540f" />
 
 
 **1. Project Overview / Description**
@@ -57,9 +51,10 @@ specific category.
 - To run the Jollibee Product Inventory Tracker (JPIT), the user must first ensure that the Java Development Kit (JDK) is installed on their computer. Once Java is available, all the program’s .java files should be placed together inside one folder. The user must then open a terminal or command prompt and navigate to that folder using the cd command. After reaching the correct directory, the program is compiled by typing javac *.java, which converts all source code files into executable .class files. When the compilation is successful and no errors are found, the program can be started by typing java JollibeeInventoryApp. This will launch the console-based menu, allowing the user to interact with the system and perform operations such as adding, updating, deleting, and viewing product inventory records. With these simple steps, the JPIT application becomes fully functional and ready for use.
 
 **Sample Output**
-<img width="587" height="747" alt="image" src="https://github.com/user-attachments/assets/801223cd-8d84-4237-bca3-8e28e81d3a8b" />
 
-<img width="447" height="537" alt="image" src="https://github.com/user-attachments/assets/2b2452d4-3b03-4876-a715-f31230570497" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/801223cd-8d84-4237-bca3-8e28e81d3a8b" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2b2452d4-3b03-4876-a715-f31230570497" />
 
 
 
@@ -68,6 +63,7 @@ specific category.
 
 
 **Author and Acknowledgement**
+
 This Jollibee Product Inventory Tracker (JPIT) program was collaboratively developed by **Mendoza, Nicole Ann H**., **Motel, Nicole V.**, and **Nitro, James Kerby N.** as part of the requirements in object-oriented programming.We would like to thank **Sir Emmanuel Charlie Enriquez** for guiding us and helping us understand the concepts needed to complete this work.
 
 **References**
